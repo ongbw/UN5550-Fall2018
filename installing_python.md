@@ -16,6 +16,11 @@
 ```shell
   source setup_python_mtu.sh
 ```
+6. You will need to close your terminal window and open a new window in order run
+the jupyter notebook
+```shell
+  jupyter notebook
+```
 
 # Setup Python / Jupyter on your local system
 The easiest way to get the computing platform that you need is to install
