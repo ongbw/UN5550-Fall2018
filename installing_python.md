@@ -12,11 +12,16 @@
 ```shell
   pip install --user -r python_deps.txt
 ```
-5. Setup your environment variable
+5.Upgrade built-in version of numpy
+```shell
+  pip install --user --upgrade numpy
+  pip install --user --upgrade matplotlib
+```
+6. Setup your environment variable
 ```shell
   source setup_python_mtu.sh
 ```
-6. You will need to close your terminal window and open a new window in order run
+7. You will need to close your terminal window and open a new window in order run
 the jupyter notebook
 ```shell
   jupyter notebook
