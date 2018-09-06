@@ -1,0 +1,56 @@
+Notes: Lab 1
+
+1. Jupyter Notebook
+
+    -- Creating New notebook
+    -- Print preview
+    -- download as --> Markdown, html, pdf, and many other options.
+    -- Cell Operations can be performed using options in main toolbar such as "Edit", "Insert","Cell".
+    
+    -- Please have a look into the Kernel, this would be useful while running the codes.
+    -- Help provides a large relief 
+    
+    
+    1A. Finding the version of python currently running in system
+    import sys
+    sys.version 
+    # Provides a description of the python system version, as of today the version is 2.7.5, last installed is also shown
+
+    sys.version_info 
+    # Suffixing the _info would provide details of version in parts.
+
+    
+
+2. Introduction to simple Python codes using exercise - SimpleHelloProgram and Restaurant options (at last if time is available).
+
+3. Github uploading of completed files and docs.
+
+4. Pandas - Introduction to pandas, hands-on. 
+    
+    
+    
+    
+DOWNLOAD STEPS 
+    
+    
+    
+    
+    Pandas Steps tp import the CSV.
+    
+df = pd.read_csv(filename, delim_whitespace=True, header=None, 
+                 names = ['mpg', 'cylinders', 'displacement','horsepower',
+                          'weight', 'acceleration', 'model year', 'origin',
+                          'car name'])
+
+
+                         OR 
+                         
+                         
+                         
+df =pd.read_csv(filename,header=None,delim_whitespace=True)
+
+df.columns = ['mpg', 'cylinders', 'displacement','horsepower',
+              'weight', 'acceleration', 'model year', 'origin',
+              'car name']
+              
+              
