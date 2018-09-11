@@ -48,3 +48,15 @@ because many open source software projects are hosted there.  A good
 alternative (for academics) is http://bitbucket.org, which has the
 added benefit of allowing you to host private repositories without
 additional effort.  
+
+* Register for an account at a central git server, e.g.,https://github.com/join
+
+* Create a repository, https://help.github.com/articles/create-a-repo/.  I recommend a name, for this class, like: UN5550-Fall2018-MTUID.  Follow the instructions at the above link.  Note that editing/modifying files graphically is one quick way to udpate and commit files on your repository.
+
+* We how want to link our local repository with the remote (central) repository.  First, we need to authenticate with GitHub from Git.  
+    * If you [clone with HTTPS](https://help.github.com/articles/which-remote-url-should-i-use/#cloning-with-https-urls-recommended), you can [cache your GitHub password in Git](https://help.github.com/articles/caching-your-github-password-in-git) using a credential helper.  
+    * My preferred approach is to [clone with SSH](https://help.github.com/articles/which-remote-url-should-i-use#cloning-with-ssh-urls), which requires [generating SSH keys](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) on each computer you use to push or pull from GitHub.
+
+* After authenticating with Git, we can now [clone the repository](https://help.github.com/articles/cloning-a-repository/) we created above. 
+
+* we should now be ready to push and pull changes with our repository
