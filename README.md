@@ -17,6 +17,20 @@ A brief outline of topics located in the files are listed below.
 - [Week 7: Regression: Least Squares, non-linear regression, penalized regression](lectures/Week07.ipynb)
 - [Week 8: Unsupervised Learning: Geometric Distances, Clustering Algorithms](lectures/Week08.ipynb)
 
+## Projects
+
+- [Project 1: Working with Pandas](projects/Project01.ipynb)
+- [Project 2: Visualization using seaborn](projects/Project02.ipynb)
+- [Project 3: Inferential Statistics](projects/Project03.ipynb)
+- [Project 4: Supervised Learning](projects/Project04.ipynb)
+- [Project 5: Pickling, Regression](projects/Project05.ipynb)
+- [Project 6: Unsupervised Learning](projects/Project06.ipynb)
+- [Project 7: Dimension Reduction](projects/Project07.ipynb)
+
+
+
+
+
 
 
 
