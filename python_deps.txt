@@ -17,3 +17,4 @@ scrapy
 networkx
 unidecode
 jupyter
+scikit-image
