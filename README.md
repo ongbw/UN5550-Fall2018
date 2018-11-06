@@ -16,6 +16,7 @@ A brief outline of topics located in the files are listed below.
 - [Week 6: Supervised Learning: Cross Validation, Learning Curves, SVMs, Random Forest](lectures/Week06.ipynb)
 - [Week 7: Regression: Least Squares, non-linear regression, penalized regression](lectures/Week07.ipynb)
 - [Week 8: Unsupervised Learning: Geometric Distances, Clustering Algorithms](lectures/Week08.ipynb)
+- [Week 9: Dimension Reduction: Linear and Non-linear](lectures/Week09.ipynb)
 
 ## Projects
 
