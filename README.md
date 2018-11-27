@@ -18,6 +18,7 @@ A brief outline of topics located in the files are listed below.
 - [Week 8: Unsupervised Learning: Geometric Distances, Clustering Algorithms](lectures/Week08.ipynb)
 - [Week 9: Dimension Reduction: Linear and Non-linear](lectures/Week09.ipynb)
 - [Week 10: JSON, XML](labs/DataSchemas.ipynb), [DICOM](labs/Lab10_DICOM.ipynb)
+- [Week 11: NetworksL](lectures/Week11.ipynb)
 
 ## Projects
 
