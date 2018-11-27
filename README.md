@@ -29,6 +29,7 @@ A brief outline of topics located in the files are listed below.
 - [Project 5: Pickling, Regression](projects/Project05.ipynb)
 - [Project 6: Unsupervised Learning](projects/Project06.ipynb)
 - [Project 7: Dimension Reduction](projects/Project07.ipynb)
+- [Project 8: Networks](projects/Project08.ipynb)
 
 
 
