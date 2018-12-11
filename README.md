@@ -19,7 +19,8 @@ A brief outline of topics located in the files are listed below.
 - [Week 9: Dimension Reduction: Linear and Non-linear](lectures/Week09.ipynb)
 - [Week 10: JSON, XML](labs/DataSchemas.ipynb), [DICOM](labs/Lab10_DICOM.ipynb)
 - [Week 11: Networks](lectures/Week11.ipynb)
-- [Week 11: Cloud Computing](lectures/Week12.ipynb)
+- [Week 12: Cloud Computing](lectures/Week12.ipynb)
+- [Week 13: Tensorflow](lectures/Week13.ipynb)
 
 ## Projects
 
