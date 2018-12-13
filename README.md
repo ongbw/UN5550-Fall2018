@@ -20,7 +20,7 @@ A brief outline of topics located in the files are listed below.
 - [Week 10: JSON, XML](labs/DataSchemas.ipynb), [DICOM](labs/Lab10_DICOM.ipynb)
 - [Week 11: Networks](lectures/Week11.ipynb)
 - [Week 12: Cloud Computing](lectures/Week12.ipynb)
-- [Week 13: Tensorflow](lectures/Week13.ipynb)
+- [Week 13: Tensorflow](lectures/Week13.ipynb), [Recommender Systems](lectures/Week13b.ipynb)
 
 ## Projects
 
